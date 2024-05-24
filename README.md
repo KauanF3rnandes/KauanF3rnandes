@@ -9,7 +9,7 @@
   
   ##
  
-  ![KauanF3rnandes GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanF3rnandes&show_icons=true&theme=transparent)
+  ![KauanF3rnandes GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanF3rnandes&show_icons=true&theme=dracula)
   
 </div>
 
